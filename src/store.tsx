@@ -1,11 +1,12 @@
 import { configureStore } from "@reduxjs/toolkit";
 import  calculateReducer  from './slices/calcSlice'
+import themeReducer from './slices/themeSlice'
 
 
 const store = configureStore({
     reducer: {
-        cal: calculateReducer
-
+        cal: calculateReducer,
+        theme: themeReducer,
     },
 })
 
