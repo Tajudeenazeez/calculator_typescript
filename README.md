@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Muilticolored calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be view from the link below: 
+https://multicolored-calculator.netlify.app/
 
 ## Available Scripts
 
